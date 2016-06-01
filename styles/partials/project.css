@@ -84,6 +84,7 @@ header {
 	overflow: hidden;
 	max-height: 0;
 	font-size: 1.5em;
+	font-weight: bold;
 	text-align: left;
 	background: rgba(235, 238, 240, 0.95);
 	border-bottom: 0 solid var(--blue);
