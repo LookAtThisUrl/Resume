@@ -1,5 +1,5 @@
 # My Personal Website
-## http://Michaljzajac.me
+## http://mikejzajac.me
 
 I added my personal website to GitHub for four reasons: 
 
